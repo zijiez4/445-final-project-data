@@ -1,5 +1,8 @@
-New-gened.CSV is derived from "https://github.com/wadefagen/datasets/tree/master/geneds".
+Both gened-dataset-clean.csv and uiuc-tre-dataset-clean.csv are derived from the following two links.
 
-It is a modification of the "https://raw.githubusercontent.com/wadefagen/datasets/master/geneds/gened-courses.csv" after the run the ipynb file to. 
+Gened dataset: https://github.com/wadefagen/datasets/tree/master/geneds
+Excellent Teachers dataset: https://github.com/wadefagen/datasets/tree/master/teachers-ranked-as-excellent
 
-It splits the original columns.
+gened-dataset clean.csv and uiuc-tre-dataset clean.csv are the files that are cleaned by openrefine.
+
+The main cleanup operations are dealing with invalid data and splitting columns.
